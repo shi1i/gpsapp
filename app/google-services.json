@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "642985162266",
+    "project_id": "gpsapp-938ac",
+    "storage_bucket": "gpsapp-938ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642985162266:android:aced320dcacdc1766243a3",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjE8SIdie0L5LV2VY7oF83hHktSsr3rmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

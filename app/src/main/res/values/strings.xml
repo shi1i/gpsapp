@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GPSAPP</string>
+    <string name="title_home">Карта</string>
+    <string name="title_dashboard">Устройства</string>
+    <string name="title_notifications">Профиль</string>
+    <string name="button_login">Вход</string>
+</resources>
